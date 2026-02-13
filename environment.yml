@@ -1,0 +1,4 @@
+name: VIS
+channels:
+  - defaults
+prefix: /home/hannahe/.conda/envs/VIS
